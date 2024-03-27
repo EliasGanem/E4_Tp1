@@ -5,6 +5,7 @@ Electrónica IV - TP - Automatismos y Máquinas Elementales
 ## Introducción
 
 > Aquí explicas de que se trata el controlador de bomba de agua, y cuales son sus características.
+Este controlador de bomba de agua permite cargar el agua de su tanque de forma automatica. Posee protección para evitar que la bomba succione aire, además evita su encendido y apagado constante para alargar la vida util de esta.
 
 ## Metodología de trabajo
 
